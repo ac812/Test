@@ -2,6 +2,7 @@
 title: "index"
 author: "Alexia Cardona"
 date: "15 July 2019"
+output: github_document
 ---
 
 Hello, Website!
