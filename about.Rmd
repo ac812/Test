@@ -2,6 +2,7 @@
 title: "about"
 author: "Alexia Cardona"
 date: "15 July 2019"
+output: github_document
 ---
 
 More about this website.
