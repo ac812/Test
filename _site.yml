@@ -1,0 +1,6 @@
+name:"Test"
+navbar:
+   title:"Reproducibility"
+   left:
+    -text:"Rmarkdown"
+    href:about.md
