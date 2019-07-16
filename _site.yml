@@ -1,6 +1,10 @@
-name:"Test"
+name: "Test"
 navbar:
-   title:"Reproducibility"
-   left:
-    -text:"Rmarkdown"
-    href:about.md
+  title: "Reproducibility in action"
+  left:
+    - text: "Rmarkdown"
+      href: about.html
+    - text: "Git"
+      href: index.html
+output:
+  html_document
